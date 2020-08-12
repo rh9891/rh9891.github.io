@@ -1,1 +1,8 @@
-
+/* html {
+    display: flex;
+    flex-direction: column;
+    background: url("assets/waterColorBackground.jpg") no-repeat center center fixed;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+} */

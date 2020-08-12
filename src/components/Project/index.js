@@ -1,16 +1,16 @@
 import React from "react";
-import "project.css";
+import "./style.css";
 
 function Project(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={props.project} src={props.image} />
+        <img alt={props.title} src={props.image} />
       </div>
       <div className="content">
         <ul>
           <li>
-            <strong>Title:</strong> {props.project}
+            <strong>Title:</strong> {props.title}
           </li>
           <li>
           <a href={props.deployed} class="btn btn-primary" id="deployButton">Deployed Application</a>

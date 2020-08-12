@@ -1,0 +1,20 @@
+/* Attributes for social media icons, so that they are properly distributed on the page.*/
+.socialIcons {
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 400px;
+}
+
+.linkedIn {
+    margin-left: 100px;
+}
+
+a.float-left.linkedIn {
+    margin-right: 50px;
+}
+
+/* Hides bullet points of listed social media icons.*/
+.logo {
+    display: block;
+}

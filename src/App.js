@@ -1,16 +1,16 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
-import Header from "./components/Header/Header";
-import Contact from 
-import Footer from './components/Footer/Footer';
+// import { BrowserRouter as Router, Route } from 'react-router-dom';
+// import Header from "./components/Header/Header";
+// import About from "./components/About/About";
+// import Portfolio from "./components/Portfolio/Portfolio";
+// import Contact from "./components/Contact/Contact";
+// import Footer from './components/Footer/Footer';
+import Portfolio from "./components/Portfolio";
+// import Project from "./components/Project/Project";
 
 function App() {
   return (
-    <Router>
-      <Header />
-      <Route exact path='/' component={Home} />
-      <Footer />
-    </Router>
+      <Portfolio />
   );
 }
 

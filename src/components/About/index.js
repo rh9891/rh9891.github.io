@@ -3,14 +3,7 @@ import "./style.css"
 
 function About() {
     return (
-    <section className="container-fluid" id="#aboutContainer">
-        <section className="card">
-            <header className="card-header">
-                <h3>About Me</h3>
-            </header>
-    </section>
-
-    <section className="myPortfolio"> 
+    <section className="container"> 
         <section className="card">
         <section className="myBio">
         <section className="headshot float-left">  
@@ -24,9 +17,8 @@ function About() {
           <a className="float-right" href="https://docs.google.com/document/d/1Xg6i4LC_tL8g8xhu4_Ug1dFWxH5wnr68QzEwWe-yeq0/edit?usp=sharing " target="_blank"><img src="../../../assets/magnifyingGlassLogo" alt="Magnifying Glass Logo"/></a>
           <a className="float-left linkedIn" href="https://www.linkedin.com/in/romie-hecdivert-a75a181a8/" target="_blank"><img src="../../../assets/linkedInLogo" alt="LinkedIn Logo"/></a>
         </div>
-          </section>
-          </section>
-    </section>
+        </section>
+        </section>
     </section>
 )
 }

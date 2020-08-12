@@ -32,3 +32,8 @@
 .card > .content > ul > li {
     margin-top: 18px;
 }
+
+#deployButton, #repositoryButton {
+    background-color: rosybrown;
+    border: none;
+}

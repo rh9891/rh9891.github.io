@@ -10,7 +10,7 @@ function Project(props) {
       <div className="content">
         <ul>
           <li>
-            <strong>Title:</strong> {props.title}
+            <strong>Title:</strong>{props.title}
           </li>
           <li>
           <a href={props.deployed} class="btn btn-primary" id="deployButton">Deployed Application</a>

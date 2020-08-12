@@ -1,7 +1,8 @@
 import React from "react";
-import project from "./project.json";
-import Wrapper from "./components/Wrapper";
-import Project from "./components/Project";
+import project from "../../project.json";
+import Wrapper from "../Wrapper";
+import Project from "../Project";
+import "../Portfolio/style.css"
 
 function Portfolio() {
   return (

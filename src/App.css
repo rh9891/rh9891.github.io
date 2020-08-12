@@ -1,8 +1,1 @@
-html, body {
-  height: 100%;
-}
 
-/* Added background to webpage for personalization.*/
-body {
-  background-image: url("/src/assets/waterColorBackground.jpg");
-}

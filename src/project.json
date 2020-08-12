@@ -3,7 +3,7 @@
       "id": 1,
       "project": "PLASMA",
       "image":
-        "",
+        "https://github.com/rh9891/rhecdivert.github.io/blob/master/src/assets/plasmaScreenshot.png",
       "deployed": "https://plasma-playlistdashboard.herokuapp.com/",
       "repo": "https://github.com/rh9891/PLASMA"
     },

@@ -1,11 +1,10 @@
-# My Portfolio (React)
+# Portfolio (React)
 
 [![NPM Version Badge](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://badge.fury.io/js/%40angular%2Fcore)
 
 ## Table of Contents
 *  [Preview of the Portfolio](#preview-of-the-portfolio)
 *  [Links](#links)
-*  [Installation](#installation)
 *  [Usage](#usage)
 *  [Built Using](#built-using)
 *  [License](#license)
@@ -24,7 +23,7 @@
 
 ## Links
 
-1. [Deployed Application](https://rh9891.github.io/rhecdivert.github.io)
+1. [Deployed Application](https://rh9891.github.io/)
 
 2. [Github Repository](https://github.com/rh9891/rhecdivert.github.io)
 

@@ -21,7 +21,7 @@ function Contact() {
                 <label htmlFor="exampleFormControlTextarea1">Message</label>
                 <textarea className="form-control" id="message" rows="12"></textarea>
               </div>
-            <button type="submit" className="btn btn-primary">Submit</button>
+            <button type="submit" className="btn btn-info">Submit</button>
           </form>
         </section>
         </div>

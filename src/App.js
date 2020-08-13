@@ -5,16 +5,16 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from './components/Footer';
 import Portfolio from "./components/Portfolio";
+import Index from "./components/Index"
 import "./App.css"
-// import PortfolioHeader from "./components/PortfolioHeader";
-
 
 function App() {
   return (
     <Router>
     <Header />
     <div className="myApp">
-    <Route exact path="/" component={About} />
+    <Route exact path="/" component={Index} />
+    <Route exact path="/about" component={About} />
     <Route exact path="/portfolio" component={Portfolio} />
     <Route exact path="/contact" component={Contact} />
     <Footer />

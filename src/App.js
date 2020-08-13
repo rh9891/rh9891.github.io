@@ -13,10 +13,10 @@ import AboutHeader from "./components/AboutHeader";
 
 function App() {
   return (
-    <>
+    <div className="myApp">
     <AboutHeader/>
     <About/>
-    </>
+    </div>
   );
 }
 

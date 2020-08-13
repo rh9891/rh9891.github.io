@@ -18,3 +18,14 @@ a.float-left.linkedIn {
 .logo {
     display: block;
 }
+
+#headshotContainer {
+    width: 50%;
+    height: 50%;
+    float: center;
+    margin-top: 50px;
+}
+
+#textContainer {
+    margin-top: 50px;
+}

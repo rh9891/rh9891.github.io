@@ -1,10 +1,10 @@
 import React from 'react';
 // import { BrowserRouter as Router, Route } from 'react-router-dom';
 // import Header from "./components/Header/Header";
-import About from "./components/About";
-// import Contact from "./components/Contact/Contact";
+// import About from "./components/About";
+import Contact from "./components/Contact";
 // import Footer from './components/Footer/Footer';
-// import Portfolio from "./components/Portfolio";
+import Portfolio from "./components/Portfolio";
 import "./App.css"
 // import PortfolioHeader from "./components/PortfolioHeader";
 // import Project from "./components/Project/Project";
@@ -14,7 +14,7 @@ import "./App.css"
 function App() {
   return (
     <div className="myApp">
-    <About/>
+    <Contact/>
     </div>
   );
 }

@@ -5,12 +5,12 @@ function Project(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img alt={props.title} src={props.image} />
+        <img alt={props.title} src={props.image} id="portfolioImage"/>
       </div>
       <div className="content">
         <ul>
           <li>
-            <strong>Title:</strong>{props.title}
+            <strong>Title: </strong>{props.title}
           </li>
           <li>
           <a href={props.deployed} class="btn btn-primary" id="deployButton">Deployed Application</a>

@@ -67,7 +67,7 @@
     "id": 9,
     "title": "The Stingy Traveler",
     "image":
-      "https://github.com/rh9891/TheStingyTraveler/blob/master/public/assets/images/theStingyTravelerPreview.gif",
+      "assets/theStingyTravelerPreview.gif",
     "deployed": "https://the-stingy-traveler.herokuapp.com/",
     "repository": "https://github.com/rh9891/TheStingyTraveler"
   }

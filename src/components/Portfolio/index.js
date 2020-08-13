@@ -2,10 +2,13 @@ import React from "react";
 import project from "../../project.json";
 import Wrapper from "../Wrapper";
 import Project from "../Project";
+import PortfolioHeader from "../PortfolioHeader";
 import "../Portfolio/style.css"
 
 function Portfolio() {
   return (
+      <>
+    <PortfolioHeader />
     <Wrapper>
     <Project
         title={project[0].title}
@@ -62,6 +65,7 @@ function Portfolio() {
         repository={project[8].repository}
     />
     </Wrapper>
+    </>
   );
 }
 

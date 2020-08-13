@@ -1,8 +1,11 @@
 import React from "react";
+import AboutHeader from "../AboutHeader";
 import "./style.css"
 
 function About() {
     return (
+    <>
+    <AboutHeader />
     <section className="container"> 
         <section className="card">
         <section className="myBio">
@@ -22,6 +25,7 @@ function About() {
         </section>
         </section>
     </section>
+    </>
 )
 }
 

@@ -8,13 +8,12 @@ import About from "./components/About";
 import "./App.css"
 // import PortfolioHeader from "./components/PortfolioHeader";
 // import Project from "./components/Project/Project";
-import AboutHeader from "./components/AboutHeader";
+// import AboutHeader from "./components/AboutHeader";
 
 
 function App() {
   return (
     <div className="myApp">
-    <AboutHeader/>
     <About/>
     </div>
   );

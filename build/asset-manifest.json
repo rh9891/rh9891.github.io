@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rhecdivert.github.io/static/css/main.0c46f79f.chunk.css",
+    "main.js": "/rhecdivert.github.io/static/js/main.a2e3313d.chunk.js",
+    "main.js.map": "/rhecdivert.github.io/static/js/main.a2e3313d.chunk.js.map",
+    "runtime-main.js": "/rhecdivert.github.io/static/js/runtime-main.895026b5.js",
+    "runtime-main.js.map": "/rhecdivert.github.io/static/js/runtime-main.895026b5.js.map",
+    "static/js/2.7bc6b983.chunk.js": "/rhecdivert.github.io/static/js/2.7bc6b983.chunk.js",
+    "static/js/2.7bc6b983.chunk.js.map": "/rhecdivert.github.io/static/js/2.7bc6b983.chunk.js.map",
+    "index.html": "/rhecdivert.github.io/index.html",
+    "precache-manifest.1661cf099a227275f461f12d99f74c5e.js": "/rhecdivert.github.io/precache-manifest.1661cf099a227275f461f12d99f74c5e.js",
+    "service-worker.js": "/rhecdivert.github.io/service-worker.js",
+    "static/css/main.0c46f79f.chunk.css.map": "/rhecdivert.github.io/static/css/main.0c46f79f.chunk.css.map",
+    "static/js/2.7bc6b983.chunk.js.LICENSE.txt": "/rhecdivert.github.io/static/js/2.7bc6b983.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rhecdivert.github.io/static/media/waterColorBackground.a824fbbb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.895026b5.js",
+    "static/js/2.7bc6b983.chunk.js",
+    "static/css/main.0c46f79f.chunk.css",
+    "static/js/main.a2e3313d.chunk.js"
+  ]
+}

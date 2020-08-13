@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Read It or Watch It",
     "image":
-      "https://github.com/erasersleeve/Multimedia-Search-Engine/raw/master/assets/Read%20It%20or%20Watch%20It.gif",
+      "assets/readItOrWatchIt.png",
     "deployed": "https://rh9891.github.io/ReadItOrWatchIt/",
     "repository": "https://github.com/rh9891/ReadItOrWatchIt"
   },

@@ -9,16 +9,16 @@ function Contact() {
         <section className="contactForm">
         <form action="mailto:romie.hecdivert@gmail.com" method="post" enctype="text/plain">
             <div className="form-group">
-              <label for="name">Name</label>
+              <label htmlFor="name">Name</label>
               <input type="text" placeholder="Grace Hopper" className="form-control" id="name"/>
             </div>
             <div className="form-group">
-              <label for="email">Email</label>
+              <label htmlFor="email">Email</label>
               <input type="email" placeholder="ghopper@email.com" className="form-control" id="email"/>
             </div>
             
             <div className="form-group">
-                <label for="exampleFormControlTextarea1">Message</label>
+                <label htmlFor="exampleFormControlTextarea1">Message</label>
                 <textarea className="form-control" id="message" rows="12"></textarea>
               </div>
             <button type="submit" className="btn btn-primary">Submit</button>

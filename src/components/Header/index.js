@@ -6,7 +6,7 @@ function Header() {
     const location = useLocation();
 
     return (
-        <nav className="navbar navbar-expand-md bg-dark navbar-dark">
+        <nav className="navbar navbar-expand-md bg-info navbar-info">
         <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>Romie Hecdivert</Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
           <span className="navbar-toggler-icon"></span>

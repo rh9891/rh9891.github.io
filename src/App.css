@@ -4,5 +4,7 @@
     background: url("assets/waterColorBackground.jpg") no-repeat center center fixed;
     height: 100%;
     width: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 50px;
     background-size: cover;
 }

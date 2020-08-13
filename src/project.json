@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Another One Bites the Burger",
     "image":
-      "https://github.com/rh9891/AnotherOneBitesTheBurger/raw/master/public/assets/images/anotherOneBitesTheBurgerHomepage.png",
+      "assets/anotherOneBitesTheBurgerHomepage.png",
     "deployed": "https://another-one-bites-the-burger.herokuapp.com/",
     "repository": "https://github.com/rh9891/AnotherOneBitesTheBurger"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Weather Dashboard",
     "image":
-      "https://github.com/rh9891/WeatherDashboard/raw/master/images/previouslySearchedCitiesPreview.png",
+      "assets/algiersWeatherPreview.png",
     "deployed": "https://rh9891.github.io/WeatherDashboard/",
     "repository": "https://github.com/rh9891/WeatherDashboard"
     },
@@ -35,7 +35,7 @@
     "id": 5,
     "title": "Workday Scheduler",
     "image":
-      "https://github.com/rh9891/WorkDayScheduler/raw/master/images/Work%20Day%20Scheduler.gif",
+      "assets/workdayScheduler.png",
     "deployed": "https://rh9891.github.io/WorkDayScheduler/",
     "repository": "https://github.com/rh9891/WorkDayScheduler"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "title": "New York Times Article Search",
     "image":
-      "https://github.com/rh9891/NewYorkTimesArticleSearch/raw/master/assets/images/nytSearchPreview.png",
+      "assets/nytSearchPreview.png",
     "deployed": "https://rh9891.github.io/NewYorkTimesArticleSearch/",
     "repository": "https://github.com/rh9891/NewYorkTimesArticleSearch"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "title": "Grillenium Falcon",
     "image":
-      "https://github.com/rh9891/GrilleniumFalcon/raw/master/public/assets/css/images/grilleniumFalconPreview.gif",
+      "assets/grilleniumFalconHomepage.png",
     "deployed": "https://grillenium-falcon.herokuapp.com/",
     "repository": "https://github.com/rh9891/GrilleniumFalcon"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "title": "Dunder Mifflin Paper Company Employee Directory",
     "image":
-      "https://github.com/rh9891/DunderMifflinPaperCompanyEmployeeDirectory/raw/master/assets/videos/employeeDirectorySearchFunctionality.gif",
+      "assets/employeeDirectoryHomepage.png",
     "deployed": "https://rh9891.github.io/DunderMifflinPaperCompanyEmployeeDirectory/",
     "repository": "https://github.com/rh9891/DunderMifflinPaperCompanyEmployeeDirectory"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "title": "The Stingy Traveler",
     "image":
-      "assets/theStingyTravelerPreview.gif",
+      "assets/theStingyTraveler.png",
     "deployed": "https://the-stingy-traveler.herokuapp.com/",
     "repository": "https://github.com/rh9891/TheStingyTraveler"
   }

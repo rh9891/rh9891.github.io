@@ -2,9 +2,10 @@
 #footer {
     position: fixed;
     left: 0;
+    margin-top: 10px;
     bottom: 0;
     width: 100%;
-    background-color: darkgray;
+    background-color: lightpink;
     color: white;
     text-align: center;
 }

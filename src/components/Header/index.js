@@ -14,7 +14,7 @@ function Header() {
         <div className="collapse navbar-collapse" id="collapsibleNavbar">
           <ul className="navbar-nav ml-auto">
             <li className="navAbout">
-            <Link to="/about" className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>About</Link>
+            <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>About</Link>
             </li>
             <li className="navPortfolio">
             <Link to="/portfolio" className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}>Portfolio</Link>

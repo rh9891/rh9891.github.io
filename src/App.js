@@ -1,21 +1,25 @@
-import React from 'react';
-// import { BrowserRouter as Router, Route } from 'react-router-dom';
-// import Header from "./components/Header/Header";
-// import About from "./components/About";
+import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Header from "./components/Header";
+import About from "./components/About";
 import Contact from "./components/Contact";
-// import Footer from './components/Footer/Footer';
+import Footer from './components/Footer';
 import Portfolio from "./components/Portfolio";
 import "./App.css"
 // import PortfolioHeader from "./components/PortfolioHeader";
-// import Project from "./components/Project/Project";
-// import AboutHeader from "./components/AboutHeader";
 
 
 function App() {
   return (
+    <Router>
+    <Header />
     <div className="myApp">
-    <Contact/>
+    <Route exact path="/" component={About} />
+    <Route exact path="/portfolio" component={Portfolio} />
+    <Route exact path="/contact" component={Contact} />
+    <Footer />
     </div>
+    </Router>
   );
 }
 

@@ -1,7 +1,6 @@
 import React from "react";
 import ContactHeader from "../ContactHeader";
 
-
 function Contact() {
     return (
         <>

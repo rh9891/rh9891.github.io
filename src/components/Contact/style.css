@@ -1,0 +1,26 @@
+.contactContainer {
+  height: 100vh;
+}
+
+.contactForm {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.phoneIconsText {
+  float: left;
+}
+
+.emailIconsText {
+  float: right;
+}
+
+.phoneIconInfo,
+.emailIconInfo {
+  align-items: center;
+}
+
+.infoText {
+  float: center;
+}

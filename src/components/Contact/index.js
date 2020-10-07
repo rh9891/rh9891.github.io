@@ -1,32 +1,33 @@
-import React from "react";
+import React, { Fragment } from "react";
 import ContactHeader from "../ContactHeader";
+import "./style.css";
 
 function Contact() {
-    return (
-        <>
-        <ContactHeader />
-        <div className="container">
+  return (
+    <Fragment>
+      <ContactHeader />
+      <div className="contactContainer">
         <section className="contactForm">
-        <form action="mailto:romie.hecdivert@gmail.com" method="post" enctype="text/plain">
-            <div className="form-group">
-              <label htmlFor="name">Name</label>
-              <input type="text" placeholder="Grace Hopper" className="form-control" id="name"/>
-            </div>
-            <div className="form-group">
-              <label htmlFor="email">Email</label>
-              <input type="email" placeholder="ghopper@email.com" className="form-control" id="email"/>
-            </div>
-            
-            <div className="form-group">
-                <label htmlFor="exampleFormControlTextarea1">Message</label>
-                <textarea className="form-control" id="message" rows="12"></textarea>
-              </div>
-            <button type="submit" className="btn btn-info">Submit</button>
-          </form>
+          <div className="phoneIconsText" id="phoneIconsText">
+            <img
+              className="phoneIconInfo"
+              src="assets/phoneIcon.png"
+              alt="Telephone Call Icon"
+            />
+            <h3 className="infoText">267-398-7219</h3>
+          </div>
+          <div className="emailIconsText" id="emailIconsText">
+            <img
+              className="emailIconInfo"
+              src="assets/emailIcon.png"
+              alt="Email Icon"
+            />
+            <h3 className="infoText">romie.hecdivert@gmail.com</h3>
+          </div>
         </section>
-        </div>
-        </>
-    );
+      </div>
+    </Fragment>
+  );
 }
 
 export default Contact;
